@@ -1,0 +1,5 @@
+﻿  piece.cpp
+C:\Users\Igor Bzdwka\source\repos\Chess1.2\Chess1.2\piece.cpp(91,7): warning C4101: 'enpass_side': unreferenced local variable
+C:\Users\Igor Bzdwka\source\repos\Chess1.2\Chess1.2\piece.cpp(90,7): warning C4101: 'enpass_col': unreferenced local variable
+C:\Users\Igor Bzdwka\source\repos\Chess1.2\Chess1.2\piece.cpp(1391): warning C4715: 'operator<<': not all control paths return a value
+  Chess1.2.vcxproj -> C:\Users\Igor Bzdwka\source\repos\Chess1.2\Debug\Chess1.2.exe
